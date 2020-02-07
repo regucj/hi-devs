@@ -391,13 +391,13 @@ button:focus {
   color: #ffffff !important; }
 
 .menu-bg .navbar-nav .nav-link:hover {
-  color: #ffffff !important; }
+  color: #ff8600 !important; }
 
 .menu-bg .navbar-nav .active {
   color: #ffffff !important; }
 
 .navbar-expand-md .navbar-nav .nav-link {
-  color: #fff;
+  color: #3a3a3a;
   font-size: 16px;
   padding: 8px 0px;
   margin-left: 26px;
