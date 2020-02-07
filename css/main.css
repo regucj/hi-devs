@@ -348,8 +348,8 @@ button:focus {
   cursor: pointer;
   text-align: center;
   border-radius: 4px;
-  background: #5533ff;
-  background: linear-gradient(95deg, #5533ff 40%, #25ddf5 100%);
+  background: #ffef0dbf;
+  background: linear-gradient(95deg, #ffef0dbf 40%, #25ddf5 100%);
   box-shadow: 0px 8px 9px 0px rgba(96, 94, 94, 0.17);
   z-index: 9999999; }
 
@@ -369,8 +369,8 @@ button:focus {
   color: #fff; }
 
 .menu-bg {
-  background: #5533ff;
-  background: linear-gradient(95deg, #5533ff 40%, #25ddf5 100%) !important;
+  background: #ffef0dbf;
+  background: linear-gradient(95deg, #ffef0dbf 40%, #25ddf5 100%) !important;
   box-shadow: 0 0 7px 1px rgba(0, 0, 0, 0.1);
   z-index: 9999;
   padding: 5px;
@@ -764,8 +764,8 @@ button:focus {
   #showcase .showcase-text p {
     color: #fff; }
   #showcase .gradient-bg {
-    background: #5533ff;
-    background: linear-gradient(95deg, #5533ff 40%, #25ddf5 100%);
+    background: #ffef0dbf;
+    background: linear-gradient(95deg, #ffef0dbf 40%, #25ddf5 100%);
     padding: 119px 0px 80px 0px; }
   #showcase .showcase-slider .owl-controls .owl-page.active span, #showcase .showcase-slider .owl-controls.clickable .owl-page:hover span {
     filter: Alpha(Opacity=100);
